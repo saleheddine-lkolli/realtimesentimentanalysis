@@ -1,0 +1,8 @@
+scrapy==2.10.1
+scrapyd==1.4.2
+selenium==4.12.0
+selenium-wire==5.1.0
+python-scrapyd-api==2.1.2
+scrapyd-client==1.2.3
+scrapyweb==0.9.13
+kafka==3.1.0
